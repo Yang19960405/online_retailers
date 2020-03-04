@@ -31,7 +31,7 @@
     <json.lib>2.4</json.lib>
 
     <!-- jackson 版本 -->
-    <jackson.version>2.9.8</jackson.version>
+    <jackson.version>2.9.10.3</jackson.version>
 
     <!-- mysql -->
     <mysql.version>5.1.46</mysql.version>
